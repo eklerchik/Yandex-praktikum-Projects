@@ -1,2 +1,2 @@
-# Yandex praktikum Projects
-My projects that I have done during my education in Yandex Praktikum
+# Описание проектов
+Предоставленные проекты были выполнены в ходе обучения в Яндекс.Практикуме, по профессии "Аналитика данных" 
